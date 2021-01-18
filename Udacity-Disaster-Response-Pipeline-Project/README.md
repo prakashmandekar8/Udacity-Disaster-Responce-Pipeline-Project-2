@@ -1,7 +1,5 @@
 ## Introduction
 
-The repo is a project in the [Udacity Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
-
 The dataset (in the data folder) comes from [appen](https://appen.com) which contains about 26k text messages from news, social media, and some other sources when some disasters happened. 
 
 Our goal here is to build a machine learning model to identify if these messages are related to disaster or not, and further label the nature of these messages. This would be of great help for some disaster relief agencies. We have 36 labels for these messages in total. Note, however, these labels are not mutually exclusive. Hence it is a multi-label classification problem.
