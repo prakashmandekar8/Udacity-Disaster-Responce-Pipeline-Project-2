@@ -11,9 +11,7 @@ scheme before training.
 After building and training such a model, we can next launch a web service which can label new messages from users' input.
 
 
-### Instructions:
-
-
+### Instructions
 
 1. Run the following commands in the project's root directory to set up the database and model.
 
